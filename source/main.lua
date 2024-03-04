@@ -8,9 +8,9 @@ local APPLICATION_TIME <const> = playdate.epochFromTime({
 	year = 2024,
 })
 local REMOVAL_TIME <const> = playdate.epochFromTime({
-	minute = 20,
-	hour = 9,
-	day = 26,
+	minute = 30,
+	hour = 11,
+	day = 19,
 	month = 3,
 	year = 2024,
 })
